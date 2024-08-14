@@ -1,0 +1,721 @@
+{
+    "Amla": {
+        "biological_name": "Amla",
+        "description": "Amla, also known as Indian gooseberry or Phyllanthus emblica, is a small deciduous tree belonging to the Phyllanthaceae family. It is native to the Indian subcontinent but is also found in other tropical regions. Amla is known for its edible fruit, which is used in culinary dishes, herbal remedies, and Ayurvedic formulations.",
+        "uses": "Amla fruit, juice, powder, and extracts are used in culinary dishes, beverages, herbal teas, and traditional medicine. Amla is rich in vitamin C, antioxidants, and other bioactive compounds, making it a popular ingredient in skincare products and dietary supplements.",
+        "benefits": "Amla contains bioactive compounds like vitamin C, tannins, and flavonoids, which have antioxidant, anti-inflammatory, and immune-boosting effects. Consumption of amla may help improve immunity, promote skin health, and enhance overall well-being.",
+        "side_effects": "In some individuals, consumption of amla may cause allergic reactions, gastrointestinal discomfort, or interactions with medications. Amla should be used with caution, especially by pregnant women and individuals with underlying health conditions.",
+        "safety_warnings": "Amla should be used under the guidance of a qualified healthcare professional, especially by pregnant women, breastfeeding mothers, and individuals with allergies or gastrointestinal issues. Excessive consumption may cause adverse effects.",
+        "medication_allergies": "There are no specific medication allergies associated with amla, but individuals with known allergies to plants in the Phyllanthaceae family or related fruits should use caution.",
+        "diet_plans": "Consume fresh amla or amla juice daily to boost immunity and aid digestion. You can also include dried amla in your diet or use it in chutneys and pickles.",
+        "haircare_benefits": [
+            "Strengthens hair follicles, preventing premature graying.",
+            "Nourishes the scalp, reducing dandruff and scalp irritation.",
+            "Stimulates hair growth and prevents hair fall.",
+            "Adds shine and luster to hair, making it more vibrant and healthy.",
+            "Contains antioxidants that protect hair from damage caused by free radicals."
+        ],
+        "skincare_benefits": [
+            "Rich in vitamin C, it helps in collagen production for youthful skin",
+            "Fights against free radicals, preventing premature aging",
+            "Promotes hair growth and strengthens hair follicles"
+        ],
+        "plant_growth": {
+            "Soil": "Well-draining soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Consuming amla juice or eating fresh amla can boost your immune system due to its high vitamin C content.",
+            "2": "Amla powder mixed with water can be used as a natural hair conditioner to promote shine and reduce dandruff.",
+            "3": "Amla can aid in digestion and relieve constipation when consumed regularly.",
+            "4": "Applying amla oil to the scalp can help prevent hair loss and stimulate hair growth.",
+            "5": "Amla is rich in antioxidants, which can help fight free radicals and reduce the risk of chronic diseases.",
+            "6": "Drinking amla juice on an empty stomach in the morning can improve liver function and detoxify the body.",
+            "7": "Amla can be incorporated into your skincare routine by mixing amla powder with yogurt or honey to create a nourishing face mask for glowing skin."
+        }
+    },
+    "Arali": {
+        "hair_care": "",
+        "biological_name": "Arali",
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Arali leaf extract can be used topically to alleviate inflammation and soothe skin irritations such as rashes or bug bites.",
+            "2": "Drinking arali tea can help reduce stress and anxiety levels, promoting relaxation and mental well-being.",
+            "3": "Arali root powder can be consumed as a natural remedy for respiratory issues like coughs and congestion.",
+            "4": "Incorporating arali leaves into your diet can support healthy digestion and relieve symptoms of indigestion or bloating.",
+            "5": "Arali oil can be applied to the scalp to nourish hair follicles and promote stronger, healthier hair growth.",
+            "6": "Chewing arali leaves or consuming arali extract may help boost energy levels and combat fatigue.",
+            "7": "Arali leaves can be brewed into a soothing herbal infusion to promote better sleep and alleviate insomnia symptoms."
+        }
+    },
+    "Brahmi": {
+        "biological_name": "Brahmi",
+        "description": "Brahmi, also known as water hyssop or Bacopa monnieri, is a perennial herb belonging to the Plantaginaceae family. It is native to wetlands and marshy areas of South Asia, Europe, Africa, and North America. Brahmi is known for its medicinal properties and has been used for centuries in traditional medicine, Ayurveda, and herbal remedies.",
+        "uses": "Brahmi leaves, stems, and aerial parts are used in traditional medicine to improve cognitive function, memory, and mental clarity. Brahmi extracts are also used to treat anxiety, depression, stress, and neurological disorders.",
+        "benefits": "Brahmi contains bioactive compounds like bacosides, alkaloids, and flavonoids, which have neuroprotective, antioxidant, and adaptogenic effects. Consumption of Brahmi may help enhance cognitive performance, reduce stress, and improve mood.",
+        "side_effects": "In some individuals, consumption of Brahmi may cause gastrointestinal discomfort, nausea, or allergic reactions. Brahmi should be used with caution, especially by pregnant women and individuals with underlying health conditions.",
+        "safety_warnings": "Brahmi should be used under the guidance of a qualified healthcare professional, especially by pregnant women, breastfeeding mothers, and individuals with allergies or neurological disorders. Excessive consumption may cause adverse effects.",
+        "medication_allergies": "There are no specific medication allergies associated with Brahmi, but individuals with known allergies to plants in the Plantaginaceae family or related herbs should use caution.",
+        "diet_plans": "Incorporate brahmi leaves or powder into your diet to improve cognitive function and reduce stress. Add it to salads, soups, or consume it as a tea.",
+        "haircare_benefits": [
+            "Nourishes the scalp, promoting healthy hair growth and preventing hair fall.",
+            "Strengthens hair follicles, reducing breakage and split ends.",
+            "Improves scalp circulation, delivering essential nutrients to the hair roots.",
+            "Conditions and moisturizes hair, making it soft, smooth, and shiny.",
+            "Helps in reducing dandruff and scalp irritation."
+        ],
+        "skincare_benefits": [
+            "Enhances skin elasticity and reduces the appearance of wrinkles",
+            "Stimulates hair follicles, promoting hair growth and preventing hair fall",
+            "Calms the mind and reduces stress, which can indirectly benefit skin health"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Consuming Brahmi tea or capsules may help improve cognitive function and memory retention.",
+            "2": "Brahmi oil can be massaged onto the scalp to nourish hair follicles, strengthen hair roots, and prevent hair loss.",
+            "3": "Incorporating Brahmi leaves into your diet or consuming Brahmi supplements can help reduce stress and promote relaxation.",
+            "4": "Applying Brahmi paste or oil topically can aid in treating skin conditions such as eczema, psoriasis, and acne due to its anti-inflammatory properties.",
+            "5": "Brahmi extract can be taken orally to support overall mental health and alleviate symptoms of anxiety and depression.",
+            "6": "Brahmi powder mixed with water can be applied to the scalp to relieve itchiness, dandruff, and dryness.",
+            "7": "Drinking Brahmi tea regularly may help improve sleep quality and promote better overall sleep patterns."
+        }
+    },
+    "Bringaraja": {
+        "hair_care": "",
+        "biological_name": "Bringaraja",
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Massaging Bringaraja oil onto the scalp can stimulate hair follicles, promoting hair growth and preventing hair loss.",
+            "2": "Consuming Bringaraja powder or capsules can help improve liver function and detoxify the body.",
+            "3": "Bringaraja extract can be applied topically to wounds or cuts to promote faster healing and reduce inflammation.",
+            "4": "Drinking Bringaraja tea may aid digestion and alleviate symptoms of indigestion or bloating.",
+            "5": "Bringaraja oil can be used as a natural remedy for scalp conditions like dandruff and itchiness.",
+            "6": "Incorporating Bringaraja leaves into your diet can help boost immunity and protect against infections.",
+            "7": "Applying Bringaraja paste to the skin can help reduce acne and improve overall skin health due to its antibacterial properties."
+        }
+    },
+    "Coffee": {
+        "hair_care": "",
+        "biological_name": "Coffee",
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Consuming coffee in moderation can boost alertness and improve mental focus due to its caffeine content.",
+            "2": "Drinking black coffee before a workout can enhance physical performance by increasing adrenaline levels and mobilizing fatty acids from fat tissues.",
+            "3": "Coffee contains antioxidants that may help reduce the risk of certain diseases, such as Parkinson's and Alzheimer's.",
+            "4": "Adding a dash of cinnamon or cocoa to your coffee can enhance its flavor while providing additional health benefits.",
+            "5": "Opting for freshly brewed coffee instead of instant coffee can ensure higher levels of antioxidants and a richer flavor profile.",
+            "6": "Drinking coffee with a meal can stimulate digestion and may help alleviate constipation.",
+            "7": "Avoiding excessive sugar and creamer in your coffee can help maintain a healthier beverage choice and prevent unnecessary calorie intake."
+        }
+    },
+    "Curry Leaves": {
+        "hair_care": "",
+        "biological_name": "Curry Leaves",
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Incorporating curry leaves into your diet can help regulate blood sugar levels and reduce the risk of diabetes.",
+            "2": "Chewing raw curry leaves or drinking curry leaf tea can aid in digestion and relieve symptoms of indigestion, bloating, and nausea.",
+            "3": "Curry leaves are rich in antioxidants and vitamins, which can help strengthen the immune system and fight off infections.",
+            "4": "Applying a paste of curry leaves to the scalp can promote hair growth, prevent premature graying, and nourish the hair follicles.",
+            "5": "Adding curry leaves to your cooking can enhance the flavor of dishes while providing nutritional benefits.",
+            "6": "Consuming curry leaves regularly may help lower cholesterol levels and promote heart health.",
+            "7": "Using curry leaf oil or extract topically can help treat skin conditions like acne, eczema, and psoriasis due to its anti-inflammatory properties."
+        }
+    },
+    "Eucalyptus": {
+        "biological_name": "Eucalyptus",
+        "description": "Eucalyptus is a genus of flowering trees and shrubs in the Myrtaceae family. It is native to Australia and is widely cultivated in other parts of the world for its timber, essential oils, and ornamental value.",
+        "uses": "Various species of eucalyptus are used for timber, pulpwood, landscaping, and essential oil production. Eucalyptus oil is extracted from the leaves and used in aromatherapy, personal care products, and pharmaceuticals.",
+        "benefits": "Eucalyptus oil is known for its antimicrobial, anti-inflammatory, and decongestant properties. It has been used to relieve respiratory symptoms, soothe muscle aches, repel insects, and promote relaxation.",
+        "side_effects": "In some individuals, topical application or inhalation of eucalyptus oil may cause skin irritation, allergic reactions, or respiratory irritation. Ingestion of eucalyptus oil may be toxic and should be avoided.",
+        "safety_warnings": "Eucalyptus oil should be used with caution, especially by pregnant or breastfeeding women, young children, and individuals with respiratory conditions such as asthma. Dilute eucalyptus oil before topical use and avoid contact with mucous membranes.",
+        "medication_allergies": "There are no specific medication allergies associated with eucalyptus, but individuals with known allergies to related plants or essential oils should use caution.",
+        "diet_plans": "Use eucalyptus leaves or oil in steam inhalation to relieve respiratory issues. Avoid ingesting eucalyptus oil directly; instead, use it externally or aromatically.",
+        "haircare_benefits": [
+            "Cleanses the scalp and removes excess oil and buildup, promoting a healthy scalp environment.",
+            "Soothes scalp irritation and reduces dandruff.",
+            "Stimulates hair follicles, promoting hair growth.",
+            "Adds shine and vitality to hair, making it look healthier and more vibrant.",
+            "Helps in preventing hair loss and breakage."
+        ],
+        "skincare_benefits": [
+            "Antiseptic properties help in treating acne and skin infections",
+            "Soothes skin irritations and reduces inflammation",
+            "Refreshes the skin and promotes a sense of relaxation"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Minimal fertilization."
+        },
+        "health_tips": {
+            "1": "Inhaling eucalyptus oil vapor can help relieve nasal congestion and alleviate symptoms of respiratory conditions like colds and sinusitis.",
+            "2": "Adding a few drops of eucalyptus oil to a warm bath can provide relaxation and soothe sore muscles and joints.",
+            "3": "Diluting eucalyptus oil with a carrier oil and applying it to the chest can help ease coughing and promote clearer breathing.",
+            "4": "Using eucalyptus oil as a natural insect repellent can help keep mosquitoes and other pests at bay during outdoor activities.",
+            "5": "Adding eucalyptus leaves to boiling water and inhaling the steam can provide relief from headaches and migraines.",
+            "6": "Mixing eucalyptus oil with a carrier oil and massaging it onto the scalp can stimulate hair follicles and promote hair growth.",
+            "7": "Using eucalyptus oil in a diffuser can create a refreshing and invigorating atmosphere, promoting mental clarity and concentration."
+        }
+    },
+    "Ginger": {
+        "biological_name": "Ginger",
+        "description": "Ginger, also known as Zingiber officinale, is a flowering plant belonging to the Zingiberaceae family. It is native to Southeast Asia but is now cultivated in tropical and subtropical regions worldwide. Ginger is known for its rhizomes, which are used as a spice, culinary ingredient, and medicinal herb.",
+        "uses": "Ginger rhizomes, known as ginger root, are used fresh, dried, or powdered in culinary dishes, beverages, teas, and traditional medicine. Ginger extracts are used to treat various health conditions, including nausea, indigestion, inflammation, and respiratory issues.",
+        "benefits": "Ginger contains bioactive compounds like gingerol, shogaol, and zingerone, which have anti-inflammatory, antioxidant, and digestive effects. Consumption of ginger may help alleviate nausea, improve digestion, and reduce inflammation.",
+        "side_effects": "In some individuals, consumption of ginger may cause gastrointestinal discomfort, heartburn, or allergic reactions. Excessive consumption of ginger or sensitivity to its compounds may exacerbate these effects.",
+        "safety_warnings": "Ginger should be consumed in moderation, especially by individuals with gastrointestinal issues, ulcers, or sensitivity to spicy foods. Pregnant women should consult a healthcare professional before consuming large amounts of ginger.",
+        "medication_allergies": "There are no specific medication allergies associated with ginger, but individuals with known sensitivities to spicy foods or gastrointestinal conditions should use caution.",
+        "diet_plans": "Incorporate fresh ginger into your diet to aid digestion, reduce inflammation, and alleviate nausea. Use it in stir-fries, teas, or add it to smoothies.",
+        "haircare_benefits": [
+            "Improves blood circulation to the scalp, promoting hair growth.",
+            "Strengthens hair follicles, reducing hair fall and breakage.",
+            "Nourishes the scalp, reducing dandruff and scalp irritation.",
+            "Conditions and softens hair, making it more manageable.",
+            "Adds volume and thickness to hair, giving it a fuller appearance."
+        ],
+        "skincare_benefits": [
+            "Stimulates circulation, giving a healthy glow to the skin",
+            "Contains antioxidants that fight aging and promote skin elasticity",
+            "Helps in treating acne and other skin inflammations"
+        ],
+        "plant_growth": {
+            "Soil": "Loamy, well-draining soil.",
+            "Watering": "Regular watering.",
+            "Light": "Partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Consuming 4 tsp ginger juice with 4 tsp honey and 2 tsp lemon juice with water reduces cold.",
+            "2": "Sun dry the peeled and cut ginger pieces in a covered bottle for 12 days. consuming 2-4 pieces everyday solves digestive issues.",
+            "3": "Dried ginger mixed with little jaggery and 1 glass of milk. consumed every morning cures stomach ache and increases digestion.",
+            "4": "Cut ginger and mix it with honey and leave for half an hour. consuming this prevents skin aging.",
+            "5": "Cut ginger into pieces and rub on scalp to prevents baldness and hair growth.",
+            "6": "Ginger with honey cures cough."
+        }
+    },
+    "Guava": {
+        "biological_name": "Guava",
+        "description": "Guava is a tropical fruit-bearing tree belonging to the Myrtaceae family. It is native to Central America and is cultivated in tropical and subtropical regions worldwide.",
+        "uses": "Guava fruit is consumed fresh or used in culinary dishes, beverages, jams, jellies, and desserts. Guava leaves are used in traditional medicine for their medicinal properties.",
+        "benefits": "Guava is rich in vitamins, minerals, and antioxidants, particularly vitamin C. Consumption of guava may support immune function, digestive health, heart health, and skin health.",
+        "side_effects": "Some individuals may experience allergic reactions or digestive discomfort after consuming guava, especially if sensitive to other fruits in the Myrtaceae family. Guava seeds may pose a choking hazard.",
+        "safety_warnings": "Guava is generally safe for consumption when ripe and consumed in moderate amounts. Pregnant or breastfeeding women should consult a healthcare professional before using guava supplements or extracts.",
+        "medication_allergies": "There are no specific medication allergies associated with guava, but individuals with known allergies to related fruits or plants in the Myrtaceae family should use caution.",
+        "diet_plans": "Enjoy fresh guava as a snack or in salads for its high vitamin C content, which boosts immunity and promotes skin health.",
+        "haircare_benefits": [
+            "Rich in vitamins and antioxidants, promoting hair health and growth.",
+            "Strengthens hair follicles, reducing hair fall.",
+            "Nourishes the scalp, preventing dandruff and scalp infections.",
+            "Helps in maintaining scalp pH balance, promoting healthy hair growth.",
+            "Adds shine and vitality to hair, making it look healthier."
+        ],
+        "skincare_benefits": [
+            "Guava leaves contain micronutrients that help to protect the skin from dark spots and redness",
+            "Protects your skin from hyperpigmentation",
+            "Reduces stubborn blemishes and blackheads",
+            "Helpful for glowing skin and free from premature lines and wrinkles",
+            "Helpful for smoothing and maintaining skin tone"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Eating guavas can boost immunity and protect against infections due to their high vitamin C content.",
+            "2": "Consuming guavas can promote digestive health and relieve constipation due to their high fiber content.",
+            "3": "Drinking guava juice or eating guava slices can help regulate blood sugar levels and prevent spikes in glucose.",
+            "4": "Applying a paste of guava leaves to the skin can help treat acne, reduce inflammation, and promote clearer skin.",
+            "5": "Consuming guavas can support heart health by reducing LDL cholesterol levels and improving blood circulation.",
+            "6": "Using guavas in cooking or baking can add a sweet and tropical flavor to dishes, desserts, and sauces.",
+            "7": "Eating guavas can provide a rich source of vitamins A and E, as well as antioxidants, supporting overall health and well-being."
+        }
+    },
+    "Henna": {
+        "hair_care": "",
+        "biological_name": "Henna",
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Applying henna paste to the hair can naturally dye it, providing a reddish-brown hue without the use of harmful chemicals.",
+            "2": "Mixing henna powder with other natural ingredients like yogurt or coconut oil can create a nourishing hair mask that promotes strength and shine.",
+            "3": "Using henna on the skin as a temporary tattoo or body art can create intricate designs and patterns, adding a touch of cultural flair.",
+            "4": "Adding henna powder to a hair oil infusion can help nourish the scalp, promote hair growth, and prevent dandruff.",
+            "5": "Using henna paste as a natural conditioner can help repair damaged hair and restore moisture, leaving it soft and manageable.",
+            "6": "Applying henna to the nails can strengthen them and promote healthy growth, serving as a natural alternative to nail polish.",
+            "7": "Mixing henna with lemon juice or tea can help release its dye molecules and enhance the color payoff for both hair and skin applications."
+        }
+    },
+    "Hibiscus": {
+        "biological_name": "Hibiscus",
+        "description": "Hibiscus is a genus of flowering plants in the Malvaceae family. It includes hundreds of species native to tropical and subtropical regions worldwide.",
+        "uses": "Hibiscus flowers are used in herbal teas, beverages, jams, jellies, and syrups. Hibiscus extracts are also used in cosmetics, hair care products, and traditional medicine.",
+        "benefits": "Hibiscus is rich in vitamins, minerals, and antioxidants, particularly vitamin C and anthocyanins. Consumption of hibiscus tea may support heart health, lower blood pressure, and promote weight management.",
+        "side_effects": "In some individuals, excessive consumption of hibiscus tea may cause digestive discomfort, nausea, or low blood pressure. Hibiscus flowers may cause allergic reactions in sensitive individuals.",
+        "safety_warnings": "Hibiscus tea may interact with certain medications, including antihypertensive drugs and diuretics. Pregnant or breastfeeding women should consult a healthcare professional before using hibiscus products.",
+        "medication_allergies": "There are no specific medication allergies associated with hibiscus, but individuals with known allergies to related plants in the Malvaceae family should use caution.",
+        "diet_plans": "Brew hibiscus tea to lower blood pressure and promote heart health. Enjoy it hot or cold with a touch of honey.",
+        "haircare_benefits": [
+            "Stimulates hair follicles, promoting hair growth.",
+            "Strengthens hair strands, reducing breakage and split ends.",
+            "Nourishes the scalp, preventing dandruff and scalp infections.",
+            "Adds shine and luster to hair, making it more vibrant.",
+            "Helps in controlling frizz and maintaining moisture balance in hair."
+        ],
+        "skincare_benefits": [
+            "Rich in AHAs (alpha hydroxy acids), it exfoliates the skin and promotes cell turnover",
+            "Strengthens hair follicles, preventing hair fall and promoting hair growth",
+            "Hydrates the skin and improves elasticity, reducing the appearance of fine lines and wrinkles"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Drinking hibiscus tea regularly can help lower blood pressure and promote heart health due to its antioxidant and anti-inflammatory properties.",
+            "2": "Applying a hibiscus hair mask can nourish the scalp, strengthen hair follicles, and promote healthy hair growth.",
+            "3": "Consuming hibiscus tea or extract may aid in weight management by inhibiting the production of amylase, an enzyme that breaks down carbohydrates.",
+            "4": "Using hibiscus petals in skincare products or homemade face masks can help exfoliate the skin, unclog pores, and promote a youthful complexion.",
+            "5": "Adding hibiscus flowers to your bathwater can create a soothing and aromatic experience while nourishing the skin.",
+            "6": "Drinking hibiscus tea can help boost liver health by supporting detoxification processes and promoting optimal liver function.",
+            "7": "Incorporating hibiscus petals into culinary dishes can add a tart and floral flavor profile, enhancing both the taste and visual appeal of meals."
+        }
+    },
+    "Lemon": {
+        "biological_name": "Lemon",
+        "description": "Lemon is a small evergreen tree belonging to the Rutaceae family. It is native to South Asia but is cultivated worldwide for its fruit.",
+        "uses": "Lemon fruit is used for its juice, pulp, and zest in culinary dishes, beverages, and desserts. Lemon juice is also used as a flavoring agent, preservative, and cleaning agent.",
+        "benefits": "Lemon is rich in vitamin C, citric acid, and antioxidants. Consumption of lemon may support immune function, aid in digestion, promote hydration, and improve skin health.",
+        "side_effects": "Excessive consumption of lemon juice may cause dental erosion or irritation of the mouth and throat due to its acidic nature. Some individuals may experience allergic reactions to lemon peel or juice.",
+        "safety_warnings": "Lemon juice may interact with certain medications, including blood thinners and medications for heartburn or acid reflux. Individuals with citrus allergies should avoid lemon products.",
+        "medication_allergies": "There are no specific medication allergies associated with lemon, but individuals with known allergies to citrus fruits should use caution.",
+        "diet_plans": "Start your day with a glass of warm lemon water to aid digestion and detoxify the body. Use lemon juice as a salad dressing or in marinades.",
+        "haircare_benefits": [
+            "Cleanses and refreshes the scalp, removing excess oil and buildup.",
+            "Helps in treating dandruff and scalp infections with its antimicrobial properties.",
+            "Adds shine and vitality to hair, making it look healthier.",
+            "Helps in balancing pH levels of the scalp, promoting a healthy environment for hair growth.",
+            "Contains vitamin C, which strengthens hair strands and reduces breakage."
+        ],
+        "skincare_benefits": [
+            "Helps to reduce pigmentation and help in skin lightening",
+            "Boosts Collagen that is responsible for maintaining the elasticity of your skin",
+            "Lemon is a natural bleaching agent that can help lighten the skin and reduce tan",
+            "Helps to maintain the natural glow of the skin",
+            "Lemon's astringent properties are solutions for oily skin and it reduces oil production in skin"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "A glass of hot water with lemon juice and a large spoonful of honey can help aid cough and cold.",
+            "2": "Lemon tea boosts weight loss, so you can have 2-3 cups daily by adding a few drops to your tea.",
+            "3": "You can squeeze the lemon juice into your salad",
+            "4": "You can add a few drops of lemon to your roasted veggies or chicken",
+            "5": "You can use the juice of a lemon to marinate your meat",
+            "6": "You can add a few drops of lemon juice to your rice when it\u2019s cooking to prevent the grains from sticking to each other",
+            "7": "You can make a lemon sorbet during the hot summer months for a refreshing bite in the sultry afternoons"
+        }
+    },
+    "Mint": {
+        "biological_name": "Mint",
+        "description": "Mint is a perennial herb belonging to the Lamiaceae family. It is native to Europe, Asia, and North America and is widely cultivated for its aromatic leaves.",
+        "uses": "Mint leaves are used fresh or dried as a culinary herb in various dishes, beverages, and desserts. Mint oil is also extracted and used in flavorings, aromatherapy, and traditional medicine.",
+        "benefits": "Mint is known for its cooling and refreshing properties. It has been used to soothe digestive issues, relieve headaches, alleviate nausea, and freshen breath.",
+        "side_effects": "In some individuals, excessive consumption of mint or mint oil may cause heartburn, acid reflux, or allergic reactions. Topical application of mint oil may cause skin irritation or sensitization.",
+        "safety_warnings": "Mint is generally safe for consumption when used in culinary amounts. Pregnant or breastfeeding women should consult a healthcare professional before using mint products, especially in concentrated forms.",
+        "medication_allergies": "There are no specific medication allergies associated with mint, but individuals with known allergies to related plants such as basil or oregano should use caution.",
+        "diet_plans": "Add fresh mint leaves to salads, smoothies, or teas to aid digestion and freshen breath.",
+        "haircare_benefits": [
+            "Soothes scalp irritation and reduces itchiness.",
+            "Provides a cooling sensation to the scalp, relieving discomfort.",
+            "Stimulates hair follicles, promoting hair growth.",
+            "Helps in controlling excess oil production on the scalp.",
+            "Adds a refreshing fragrance to hair, keeping it fresh and clean."
+        ],
+        "skincare_benefits": [
+            "Helpful for treating and preventing acne and pimples",
+            "Fades dark spots, hydrates skin, and prevents aging",
+            "The antioxidants in mint leaves help improve blood circulation and prevent free radical damage caused to the skin",
+            "Helps to heal wounds and scars"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Drinking mint tea can aid digestion, relieve bloating, and soothe an upset stomach due to its natural calming properties.",
+            "2": "Adding fresh mint leaves to water can enhance its flavor and encourage hydration, making it easier to meet daily water intake goals.",
+            "3": "Chewing on mint leaves or sucking on mint candies can help freshen breath and mask unpleasant odors.",
+            "4": "Applying crushed mint leaves or mint oil to the skin can help alleviate itching and irritation from insect bites or rashes.",
+            "5": "Adding mint leaves to salads, smoothies, or cocktails can provide a refreshing burst of flavor and elevate the dish.",
+            "6": "Inhaling the scent of mint essential oil or using it in a diffuser can promote mental clarity, focus, and alertness.",
+            "7": "Brewing mint tea and allowing it to cool before applying it to the scalp can help soothe dryness, reduce dandruff, and promote healthy hair growth."
+        }
+    },
+    "Neem": {
+        "biological_name": "Neem",
+        "description": "Neem, also known as Azadirachta indica, is a large evergreen tree belonging to the Meliaceae family. It is native to the Indian subcontinent but is also found in other tropical and subtropical regions. Neem is known for its medicinal properties and has been used for centuries in traditional medicine, Ayurveda, and herbal remedies.",
+        "uses": "Neem leaves, bark, seeds, and oil are used in traditional medicine, Ayurveda, and herbal remedies. Neem extracts are used to treat various health conditions, including skin disorders, inflammation, infections, and digestive issues.",
+        "benefits": "Neem contains bioactive compounds like nimbin, nimbidin, and quercetin, which have antimicrobial, anti-inflammatory, and antioxidant effects. Consumption of neem may help promote skin health, support immunity, and reduce inflammation.",
+        "side_effects": "In some individuals, consumption of neem may cause gastrointestinal discomfort, nausea, or allergic reactions. Neem should be used with caution, especially by pregnant women and individuals with underlying health conditions.",
+        "safety_warnings": "Neem should be used under the guidance of a qualified healthcare professional, especially by pregnant women, breastfeeding mothers, and individuals with allergies or gastrointestinal issues. Excessive consumption may cause adverse effects.",
+        "medication_allergies": "There are no specific medication allergies associated with neem, but individuals with known allergies to plants in the Meliaceae family or related herbs should use caution.",
+        "diet_plans": "Incorporate neem leaves or powder into your diet to purify the blood and support liver health. Consume neem as a tea or add it to soups.",
+        "haircare_benefits": [
+            "Cleanses the scalp and removes impurities, preventing scalp infections.",
+            "Soothes scalp irritation and reduces inflammation.",
+            "Strengthens hair follicles, reducing hair fall and promoting growth.",
+            "Helps in treating dandruff and scalp acne with its antimicrobial properties.",
+            "Adds shine and vitality to hair, making it look healthier."
+        ],
+        "skincare_benefits": [
+            "Removes dark spots, acne scars, and blemishes",
+            "Heals infected skin, pimples, and rashes",
+            "Makes your skin healthy",
+            "Brightens up the skin tone by increasing your skin's natural glow",
+            "The antibacterial nature of neem leaves also prevents skin infections"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Using neem oil or neem leaf extract in skincare products can help treat acne, reduce inflammation, and soothe irritated skin.",
+            "2": "Consuming neem leaves or neem supplements may support immune function and promote overall health due to their antioxidant properties.",
+            "3": "Adding neem oil to shampoo or conditioner can help treat dandruff, nourish the scalp, and promote healthy hair growth.",
+            "4": "Applying neem paste to the scalp can help alleviate itching, reduce scalp inflammation, and prevent lice infestations.",
+            "5": "Using neem-based toothpaste or mouthwash can help prevent gum disease, reduce plaque buildup, and freshen breath.",
+            "6": "Spraying neem oil solution on plants can help repel pests, control fungal infections, and promote healthy growth.",
+            "7": "Drinking neem tea or neem water may help detoxify the body, purify the blood, and support liver function."
+        }
+    },
+    "Pepper": {
+        "biological_name": "Pepper",
+        "description": "Pepper, also known as black pepper or Piper nigrum, is a flowering vine belonging to the Piperaceae family. It is native to South Asia but is now cultivated in tropical regions worldwide. Pepper is one of the most commonly used spices and is known for its pungent flavor and culinary versatility.",
+        "uses": "Pepper berries, known as peppercorns, are used as a spice in culinary dishes, sauces, marinades, and condiments. Pepper extracts are also used in traditional medicine, Ayurveda, and herbal remedies for their digestive, antimicrobial, and anti-inflammatory properties.",
+        "benefits": "Pepper contains bioactive compounds like piperine, which has antioxidant, anti-inflammatory, and digestive effects. Consumption of pepper may help improve digestion, stimulate appetite, and enhance nutrient absorption.",
+        "side_effects": "In some individuals, consumption of pepper may cause gastrointestinal discomfort, heartburn, or allergic reactions. Excessive consumption of pepper or sensitivity to piperine may exacerbate these effects.",
+        "safety_warnings": "Pepper should be consumed in moderation, especially by individuals with gastrointestinal issues, ulcers, or sensitivity to spicy foods. Pregnant women should consult a healthcare professional before consuming large amounts of pepper.",
+        "medication_allergies": "There are no specific medication allergies associated with pepper, but individuals with known sensitivities to spicy foods or gastrointestinal conditions should use caution.",
+        "diet_plans": "Sprinkle black pepper on salads, soups, or main dishes to improve digestion and boost metabolism.",
+        "haircare_benefits": [
+            "Stimulates blood circulation to the scalp, promoting hair growth.",
+            "Provides a warming sensation to the scalp, improving nutrient delivery.",
+            "Strengthens hair strands, reducing breakage and split ends.",
+            "Helps in treating dandruff and scalp infections with its antimicrobial properties.",
+            "Adds volume and thickness to hair, giving it a fuller appearance."
+        ],
+        "skincare_benefits": [
+            "Improves blood circulation, promoting a healthy glow to the skin",
+            "Contains antioxidants that fight free radicals and prevent premature aging",
+            "Helps in treating dandruff and other scalp conditions"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Incorporating black pepper into your diet can enhance the absorption of nutrients and promote better digestion.",
+            "2": "Drinking warm water with a pinch of black pepper and honey can help relieve sore throat and cough symptoms.",
+            "3": "Adding black pepper to meals can help boost metabolism and aid in weight management.",
+            "4": "Applying a paste of black pepper and honey to the skin can help reduce acne and promote clearer skin.",
+            "5": "Consuming black pepper regularly may help improve blood circulation and reduce the risk of cardiovascular diseases.",
+            "6": "Using black pepper oil in aromatherapy can help alleviate stress, improve mood, and enhance mental clarity.",
+            "7": "Mixing black pepper with coconut oil and massaging it onto sore muscles can provide relief from pain and inflammation."
+        }
+    },
+    "Tamarind": {
+        "biological_name": "Tamarind",
+        "description": "Tamarind is a tropical tree belonging to the Fabaceae family. It is native to Africa but is cultivated in tropical regions worldwide for its edible fruit.",
+        "uses": "Tamarind fruit is used in culinary dishes, beverages, sauces, chutneys, and candies. Tamarind pulp is also used in traditional medicine for its medicinal properties.",
+        "benefits": "Tamarind is rich in vitamins, minerals, and antioxidants, particularly vitamin C and tartaric acid. Consumption of tamarind may support digestion, reduce inflammation, and improve heart health.",
+        "side_effects": "Some individuals may experience allergic reactions or digestive discomfort after consuming tamarind, especially if sensitive to other members of the Fabaceae family. Tamarind seeds may be toxic if ingested in large amounts.",
+        "safety_warnings": "Tamarind is generally safe for consumption when ripe and consumed in moderate amounts. Individuals with diabetes should monitor their intake of tamarind products due to their sugar content.",
+        "medication_allergies": "There are no specific medication allergies associated with tamarind, but individuals with known allergies to related plants in the Fabaceae family should use caution.",
+        "diet_plans": "Use tamarind pulp in curries, chutneys, or sauces for its tangy flavor and digestive benefits.",
+        "haircare_benefits": [
+            "Cleanses and exfoliates the scalp, removing dead skin cells and buildup.",
+            "Helps in treating dandruff and scalp infections with its antimicrobial properties.",
+            "Adds shine and luster to hair, making it look healthier.",
+            "Conditions and moisturizes hair, reducing frizz and dryness.",
+            "Stimulates hair growth and strengthens hair strands."
+        ],
+        "skincare_benefits": [
+            "Acts as a natural skin exfoliant, removing dead skin cells and brightening the complexion",
+            "Contains alpha hydroxy acids (AHAs) that promote skin renewal and reduce signs of aging",
+            "Helps in treating acne and preventing future breakouts"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Balanced fertilization."
+        },
+        "health_tips": {
+            "1": "Consuming tamarind can aid digestion and relieve constipation due to its natural laxative properties.",
+            "2": "Tamarind paste or juice can be used as a flavorful marinade for meats, adding a tangy and sweet flavor profile.",
+            "3": "Drinking tamarind juice or adding tamarind pulp to water can help cool the body and quench thirst during hot weather.",
+            "4": "Using tamarind pulp in cooking can help balance flavors in savory dishes, particularly those with spicy or rich ingredients.",
+            "5": "Applying tamarind pulp or juice to the scalp can help remove excess oil, dirt, and product buildup, promoting a clean and healthy scalp.",
+            "6": "Consuming tamarind regularly may help lower cholesterol levels and support heart health due to its high fiber content.",
+            "7": "Incorporating tamarind into your diet can provide a rich source of vitamins, minerals, and antioxidants, promoting overall well-being."
+        }
+    },
+    "Turmeric": {
+        "biological_name": "Curcuma longa",
+        "description": "Turmeric, also known as Curcuma longa, is a flowering plant belonging to the ginger family, Zingiberaceae. It is native to South Asia but is now cultivated in tropical and subtropical regions worldwide. Turmeric is known for its rhizomes, which are used as a spice, coloring agent, and medicinal herb.",
+        "uses": "Turmeric rhizomes, known as turmeric root, are used fresh, dried, or powdered in culinary dishes, beverages, teas, and traditional medicine. Turmeric extracts, including curcumin, are used to treat various health conditions, including inflammation, pain, digestive issues, and skin disorders.",
+        "benefits": "Turmeric contains bioactive compounds like curcumin, which has anti-inflammatory, antioxidant, and anticancer effects. Consumption of turmeric may help reduce inflammation, alleviate pain, improve digestion, and promote skin health.",
+        "side_effects": "In some individuals, consumption of turmeric may cause gastrointestinal discomfort, nausea, or allergic reactions. Excessive consumption of turmeric or sensitivity to its compounds may exacerbate these effects.",
+        "safety_warnings": "Turmeric should be consumed in moderation, especially by individuals with gastrointestinal issues, gallbladder problems, or sensitivity to spicy foods. Pregnant women should consult a healthcare professional before consuming large amounts of turmeric.",
+        "medication_allergies": "There are no specific medication allergies associated with turmeric, but individuals with known sensitivities to spicy foods or gastrointestinal conditions should use caution.",
+        "diet_plans": "Add turmeric powder to curries, soups, or smoothies for its anti-inflammatory and antioxidant properties.",
+        "haircare_benefits": [
+            "Provides anti-inflammatory benefits to the scalp, reducing irritation and itching.",
+            "Antioxidant properties help protect hair follicles from damage and premature aging.",
+            "Promotes scalp health and circulation, supporting healthy hair growth.",
+            "Helps in treating dandruff and other scalp conditions with its antimicrobial properties.",
+            "Adds natural shine and luster to hair, improving its overall appearance."
+        ],
+        "skincare_benefits": [
+            "Reduces inflammation and redness, making it effective against acne and eczema",
+            "Brightens the skin complexion and reduces dark spots and hyperpigmentation",
+            "Contains antioxidants that fight free radicals and prevent premature aging"
+        ],
+        "plant_growth": {
+            "Soil": "Well-draining soil that is rich in organic matter.",
+            "Watering": "Water the plant when the top inch of soil feels dry.",
+            "Light": "Partial to full sunlight.",
+            "Fertilizer": "Balanced organic fertilizer every 4-6 weeks."
+        }
+    },
+    "Bamboo": {
+        "biological_name": "Bambusoideae",
+        "description": "Bamboo is a group of fast-growing perennial plants belonging to the Poaceae family. It is native to various regions of Asia, Africa, and the Americas. Bamboo is known for its versatility, strength, and sustainability, and it has been used for centuries in construction, furniture-making, culinary, and medicinal applications.",
+        "uses": "Bamboo shoots, leaves, and stems are used in culinary dishes, beverages, teas, and traditional medicine. Bamboo extracts are used in skincare products, herbal remedies, and dietary supplements for their antioxidant, anti-inflammatory, and antimicrobial properties.",
+        "benefits": "Bamboo contains bioactive compounds like silica, antioxidants, and flavonoids, which have anti-inflammatory, antimicrobial, and immune-boosting effects. Consumption of bamboo shoots or extracts may help improve digestion, skin health, and overall well-being.",
+        "side_effects": "In some individuals, consumption of bamboo shoots may cause gastrointestinal discomfort, allergic reactions, or interactions with medications. Bamboo products should be sourced from reputable suppliers to ensure safety and quality.",
+        "safety_warnings": "Bamboo shoots should be cooked thoroughly before consumption to remove natural toxins and anti-nutrients. Individuals with allergies to grasses or sensitivity to certain foods should use caution when consuming bamboo products.",
+        "medication_allergies": "There are no specific medication allergies associated with bamboo, but individuals with known allergies to grasses or plants in the Poaceae family should use caution.",
+        "diet_plans": "Incorporate bamboo shoots into stir-fries, salads, or soups for their high fiber content and potential anti-inflammatory benefits.",
+        "haircare_benefits": [
+            "Strengthens hair strands, reducing breakage and split ends.",
+            "Improves scalp circulation, delivering essential nutrients to the hair follicles.",
+            "Nourishes the scalp, promoting healthy hair growth.",
+            "Adds volume and thickness to hair, giving it a fuller appearance.",
+            "Helps in maintaining scalp health, preventing dandruff and other scalp conditions."
+        ],
+        "skincare_benefits": [
+            "Rich in silica, it strengthens hair and promotes healthy hair growth",
+            "Contains antioxidants that protect the skin from environmental damage",
+            "Helps in retaining moisture, keeping the skin hydrated and supple"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained soil.",
+            "Watering": "Regular watering.",
+            "Light": "Full sun to partial shade.",
+            "Fertilizer": "Doesn't require much fertilization. Apply balanced fertilization."
+        }
+    },
+    "Coriander": {
+        "biological_name": "Coriandrum sativum",
+        "description": "Coriander, also known as cilantro or Chinese parsley, is an annual herb belonging to the Apiaceae family. It is native to regions of southern Europe, North Africa, and southwestern Asia.",
+        "uses": "Coriander leaves and seeds are used as a culinary herb and spice in various cuisines worldwide. The leaves are used fresh or dried in salads, soups, stews, and curries, while the seeds are used whole or ground in spice blends, sauces, and pickles.",
+        "benefits": "Coriander is rich in vitamins, minerals, and antioxidants. It is a good source of vitamin C, vitamin K, potassium, and dietary fiber. Consumption of coriander may support digestion, reduce inflammation, and promote heart health.",
+        "side_effects": "Some individuals may experience allergic reactions or digestive discomfort after consuming coriander, especially if sensitive to other members of the Apiaceae family, such as celery or parsley. Coriander seeds may have a slightly bitter taste in large amounts.",
+        "safety_warnings": "Coriander is generally safe for consumption when used in culinary amounts. Pregnant or breastfeeding women should consult a healthcare professional before using coriander supplements or extracts.",
+        "medication_allergies": "There are no specific medication allergies associated with coriander, but individuals with known allergies to related plants or spices should use caution.",
+        "diet_plans": "Use fresh coriander leaves or dried coriander powder in cooking to aid digestion and detoxify the body.",
+        "haircare_benefits": [
+            "Aids in digestion, which can indirectly benefit hair health by promoting nutrient absorption.",
+            "Contains vitamins and minerals that nourish the scalp and hair follicles.",
+            "Helps in detoxifying the body, which can contribute to overall hair health.",
+            "Adds flavor to dishes without adding excess calories or unhealthy fats.",
+            "Promotes a healthy scalp environment, reducing the risk of dandruff and other scalp conditions."
+        ],
+        "skincare_benefits": [
+            "Acts as a natural skin cleanser, removing dirt and impurities",
+            "Contains antimicrobial properties that help in treating acne and preventing breakouts",
+            "Soothes skin irritations and reduces inflammation"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained, loamy.",
+            "Watering": "Regular, moderate.",
+            "Light": "Bright, indirect sunlight.",
+            "Fertilizer": "Light, balanced fertilizer every 2-4 months during the growing season."
+        }
+    },
+    "Chilly": {
+        "biological_name": "Capsicum annuum",
+        "description": "Chilly, also known as chili pepper or bell pepper, is a member of the nightshade family, Solanaceae. It is native to Central and South America.",
+        "uses": "Chilly peppers are used as a spice and a vegetable in culinary dishes worldwide. They are consumed fresh, dried, powdered, or processed into sauces and seasonings.",
+        "benefits": "Chilly peppers are rich in vitamins, minerals, and antioxidants, particularly capsaicinoids. Consumption of chilly may support metabolism, reduce inflammation, and provide pain relief.",
+        "side_effects": "Consumption of chilly peppers may cause gastrointestinal discomfort, heartburn, or irritation of the digestive tract in some individuals. Topical application of chilly cream or ointment may cause skin irritation or burning sensation.",
+        "safety_warnings": "Individuals with gastrointestinal disorders, such as acid reflux or irritable bowel syndrome, should consume chilly peppers in moderation. Pregnant or breastfeeding women should avoid excessive consumption of chilly peppers.",
+        "medication_allergies": "There are no specific medication allergies associated with chilly peppers, but individuals with known allergies to nightshade plants should use caution.",
+        "plant_growth": {
+            "Soil": "Well-drained, loamy soil.",
+            "Watering": "Regular, moderate watering.",
+            "Light": "Full sun.",
+            "Fertilizer": "Light, balanced fertilizer with an NPK."
+        }
+    },
+    "Jackfruit": {
+        "biological_name": "Artocarpus heterophyllus",
+        "description": "Jackfruit is a tropical tree belonging to the Moraceae family. It is native to South and Southeast Asia but is cultivated in tropical regions worldwide for its edible fruit.",
+        "uses": "Jackfruit fruit is consumed fresh or used in culinary dishes, desserts, curries, stews, and snacks. Jackfruit seeds are roasted and consumed as a snack or used in culinary preparations.",
+        "benefits": "Jackfruit is rich in vitamins, minerals, and antioxidants, particularly vitamin C and potassium. Consumption of jackfruit may support immune function, heart health, digestion, and skin health.",
+        "side_effects": "Some individuals may experience allergic reactions or oral allergy syndrome after consuming jackfruit, especially if sensitive to other members of the Moraceae family, such as mulberries or figs.",
+        "safety_warnings": "Jackfruit is generally safe for consumption when ripe and consumed in moderate amounts. Individuals with latex allergy may experience cross-reactivity with jackfruit.",
+        "medication_allergies": "There are no specific medication allergies associated with jackfruit, but individuals with known allergies to related plants in the Moraceae family should use caution.",
+        "diet_plans": "Enjoy ripe jackfruit as a sweet snack or use young jackfruit in savory dishes like curries or stir-fries.",
+        "haircare_benefits": [
+            "Nourishes the scalp and hair with vitamins and minerals.",
+            "Strengthens hair follicles, reducing hair fall and breakage.",
+            "Helps in maintaining scalp health, preventing dandruff and scalp infections.",
+            "Conditions and softens hair, making it more manageable.",
+            "Adds natural shine and lustre to hair, improving its overall appearance."
+        ],
+        "skincare_benefits": [
+            "Contains vitamin C, which brightens the skin complexion and reduces dark spots",
+            "Nourishes the skin with essential nutrients, promoting a healthy glow",
+            "Helps in preventing premature aging and reducing the appearance of fine lines and wrinkles"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained loam.",
+            "Watering": "Regular, deep watering.",
+            "Light": "Bright, indirect sunlight.",
+            "Fertilizer": "Light, balanced fertilizer every 2-4 months during the growing season."
+        }
+    },
+    "Jasmine": {
+        "biological_name": "Jasminum",
+        "description": "Jasmine is a genus of flowering plants belonging to the Oleaceae family. It includes a variety of species known for their fragrant flowers, which are used in perfumery, aromatherapy, and traditional medicine. Jasmine is native to tropical and subtropical regions of Eurasia and Africa.",
+        "uses": "Jasmine flowers, leaves, and essential oil are used in perfumes, cosmetics, aromatherapy, and herbal medicine. Jasmine tea is made from dried jasmine flowers and is consumed for its aromatic and therapeutic properties.",
+        "benefits": "Jasmine contains bioactive compounds like benzyl acetate, linalool, and indole, which have calming, mood-enhancing, and anti-inflammatory effects. Aromatherapy with jasmine oil or tea may help reduce stress, anxiety, and insomnia.",
+        "side_effects": "In some individuals, exposure to jasmine oil or fragrance may cause allergic reactions, skin irritation, or respiratory issues. Jasmine tea should be consumed in moderation, especially by pregnant women or individuals sensitive to caffeine.",
+        "safety_warnings": "Jasmine oil and products should be used with caution, especially by pregnant women, breastfeeding mothers, and individuals with allergies or respiratory conditions. Direct contact with jasmine oil may cause skin irritation or allergic reactions.",
+        "medication_allergies": "There are no specific medication allergies associated with jasmine, but individuals with known allergies to plants in the Oleaceae family or fragrance components should use caution.",
+        "diet_plans": "Brew jasmine tea to promote relaxation and reduce stress. Enjoy it hot or cold with a touch of honey.",
+        "haircare_benefits": [
+            "Nourishes the scalp and hair, promoting healthy hair growth.",
+            "Soothes scalp irritation and reduces inflammation.",
+            "Adds a refreshing fragrance to hair, keeping it fresh and clean.",
+            "Conditions and softens hair, making it more manageable.",
+            "Adds shine and lustre to hair, improving its overall appearance."
+        ],
+        "skincare_benefits": [
+            "Soothes the skin and reduces inflammation, making it effective against acne and eczema",
+            "Contains antioxidants that fight free radicals and prevent premature aging",
+            "Has a calming effect on the mind and body, reducing stress-related skin issues"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained, loamy soil.",
+            "Watering": "Regular, moderate watering.",
+            "Light": "Full sun.",
+            "Fertilizer": "Balanced, organic fertilizer every 2-4 months during the growing season."
+        }
+    },
+    "Tomato": {
+        "biological_name": "Solanum lycopersicum",
+        "description": "Tomato is a fruit-bearing plant belonging to the nightshade family, Solanaceae. It is native to western South America and is cultivated worldwide for its edible fruit.",
+        "uses": "Tomato fruit is used in culinary dishes, salads, sauces, soups, and beverages. It is consumed fresh, cooked, juiced, or processed into products such as ketchup and salsa.",
+        "benefits": "Tomatoes are rich in vitamins, minerals, and antioxidants, particularly lycopene. Consumption of tomatoes may support heart health, reduce the risk of certain cancers, and promote skin health.",
+        "side_effects": "Some individuals may experience allergic reactions or digestive discomfort after consuming tomatoes, especially if sensitive to other members of the nightshade family. Tomato leaves and stems contain toxic compounds and should not be consumed.",
+        "safety_warnings": "Individuals with known allergies to nightshade plants, such as potatoes or peppers, may experience cross-reactivity with tomatoes. Some people may be sensitive to the acidic nature of tomatoes and should consume them in moderation.",
+        "medication_allergies": "There are no specific medication allergies associated with tomatoes, but individuals with known allergies to nightshade plants should use caution.",
+        "diet_plans": "Incorporate fresh tomatoes into salads, sauces, or soups for their high vitamin C content and antioxidant properties.",
+        "haircare_benefits": [
+            "Cleanses the scalp and removes excess oil and dirt.",
+            "Helps in controlling dandruff and scalp infections with its antibacterial properties.",
+            "Adds shine and lustre to hair, making it appear healthier.",
+            "Conditions and moisturizes hair, reducing frizz and dryness.",
+            "Contains vitamins and antioxidants that promote healthy hair growth."
+        ],
+        "skincare_benefits": [
+            "Contains lycopene, which protects the skin from UV damage and reduces the risk of sunburn",
+            "Helps in controlling excess oil production, making it beneficial for oily and acne-prone skin",
+            "Brightens the complexion and reduces the appearance of dark spots and pigmentation"
+        ],
+        "plant_growth": {
+            "Soil": "Well-drained, loamy soil.",
+            "Watering": "Regular, consistent moisture.",
+            "Light": "Bright, indirect sunlight.",
+            "Fertilizer": "Balanced, NPK-rich fertilizer every 2-4 months during the growing season."
+        }
+    },
+    "Mango": {
+        "biological_name": "Mangifera indica",
+        "description": "Mango is a tropical fruit-bearing tree belonging to the Anacardiaceae family. It is native to South Asia but is cultivated in tropical and subtropical regions worldwide for its edible fruit.",
+        "uses": "Mango fruit is consumed fresh or used in culinary dishes, desserts, smoothies, juices, jams, and chutneys. Mango leaves are used in traditional medicine for their medicinal properties.",
+        "benefits": "Mango is rich in vitamins, minerals, and antioxidants, particularly vitamin C and vitamin A. Consumption of mango may support immune function, eye health, digestion, and skin health.",
+        "side_effects": "Some individuals may experience allergic reactions, oral allergy syndrome, or contact dermatitis after consuming mango, especially if sensitive to other members of the Anacardiaceae family, such as cashews or pistachios.",
+        "safety_warnings": "Mango is generally safe for consumption when ripe and consumed in moderate amounts. The sap of mango trees may cause skin irritation or dermatitis in sensitive individuals.",
+        "medication_allergies": "There are no specific medication allergies associated with mango, but individuals with known allergies to related plants in the Anacardiaceae family should use caution.",
+        "diet_plans": "Enjoy fresh mango as a snack or in smoothies for its high vitamin A and C content, which support eye and immune health.",
+        "haircare_benefits": [
+            "Nourishes the scalp and hair with vitamins and minerals.",
+            "Strengthens hair follicles, reducing hair fall and breakage.",
+            "Adds natural shine and lustre to hair, improving its overall appearance.",
+            "Conditions and softens hair, making it more manageable.",
+            "Helps in maintaining scalp health, preventing dandruff and scalp infections."
+        ],
+        "skincare_benefits": [
+            "Rich in vitamins A and C, it rejuvenates the skin and promotes collagen production",
+            "Contains antioxidants that fight free radicals and prevent premature aging",
+            "Hydrates the skin and improves its elasticity, reducing the appearance of fine lines and wrinkles"
+        ],
+        "plant_growth": {
+            "Soil": "Well-draining, loamy.",
+            "Watering": "Regular, not soggy.",
+            "Light": "Bright, indirect sunlight.",
+            "Fertilizer": "Balanced fertilizer every 2-4 months during the growing season."
+        }
+    }
+}

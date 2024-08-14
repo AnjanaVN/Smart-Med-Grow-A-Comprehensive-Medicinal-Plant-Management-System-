@@ -1,0 +1,112 @@
+{
+    "Acidity": {
+        "remedies": [
+            "Drink half a cup of aloe vera juice before meals to prevent acidity.",
+            "Consume ginger tea or chew on small pieces of fresh ginger.",
+            "Chew on a teaspoon of fennel seeds after meals or brew fennel tea by steeping crushed fennel seeds in hot water.",
+            "Chew on fresh mint leaves or drink mint tea to relieve symptoms of acidity.",
+            "Drink licorice tea or chew on licorice root for relief.",
+            "Eat a ripe banana or drink a banana smoothie to ease acidity.",
+            "Drink chamomile tea between meals for relief.",
+            "Mix a teaspoon of turmeric powder in warm water and drink it to reduce acidity.",
+            "Drink slippery elm tea or take it in supplement form as directed.",
+            "Chew on a teaspoon of roasted cumin seeds or drink cumin tea after meals."
+        ]
+    },
+    "Indigestion": {
+        "remedies": [
+            "Drink ginger tea or chew on a small piece of ginger to alleviate indigestion.",
+            "Add black pepper to your meals to aid digestion and reduce indigestion.",
+            "Mix turmeric powder in warm milk or water to help soothe indigestion.",
+            "Brew mint tea or chew on fresh mint leaves to relieve indigestion symptoms.",
+            "Eat ripe papaya or drink papaya juice to improve digestion and reduce indigestion symptoms.",
+            "Squeeze fresh lemon juice into water and drink it to promote digestion and reduce indigestion.",
+            "Eat ripe mango fruit or drink mango juice to promote digestion and alleviate indigestion discomfort.",
+            "Eat ripe guava fruit or drink guava leaf tea to aid digestion and reduce indigestion."
+        ]
+    },
+    "Cold": {
+        "remedies": [
+            "Tulsi leaves boiled in water can help alleviate cold symptoms due to its antimicrobial properties.",
+            "Mix lemon juice and honey in warm water and drink it to soothe a sore throat and boost immunity.",
+            "Boil mint leaves in water and drink the tea to alleviate cold symptoms and improve digestion.",
+            "Mix black pepper powder with honey and consume it to relieve cough and congestion",
+            "Mix turmeric powder in warm milk and drink it before bedtime. Turmeric has anti-inflammatory and antiviral properties.",
+            "Boil ginger slices in water and add honey and lemon juice. Ginger helps in soothing sore throat and reducing inflammation."
+        ]
+    },
+    "Fever": {
+        "remedies": [
+            "Boil tulasi leaves in water, strain, and drink the concoction. Tulasi has anti-inflammatory and antimicrobial properties.",
+            "Make a concoction by boiling pepper in water, strain, and drink it. Pepper helps to induce sweating and reduce body temperature.",
+            "Squeeze lemon juice into warm water and drink it. Lemon is rich in vitamin C and can help boost immunity.",
+            "Consume aloe vera juice, which has cooling and anti-inflammatory properties.",
+            "Boil coriander seeds in water, strain, and drink the decoction. Coriander has cooling properties and can help reduce fever.",
+            "Inhale steam from eucalyptus oil added to hot water. Eucalyptus has cooling effects and can help relieve congestion associated with fever.",
+            "Brew ginger tea by steeping fresh ginger slices in hot water. Ginger helps to induce sweating and lower body temperature."
+        ]
+    },
+    "Sugar": {
+        "remedies": [
+            "Jackfruit seeds contain fiber that can help regulate blood sugar levels. Eat boiled jackfruit seeds regularly.",
+            "Drumstick leaves can help lower blood sugar levels. Eat cooked drumstick leaves regularly as a vegetable.",
+            "Eating papaya regularly can help regulate blood sugar levels due to its high fiber content.",
+            "Drink mint tea or add fresh mint leaves to your meals to help improve digestion and regulate blood sugar levels.",
+            "Neem leaves can help lower blood sugar levels. Boil neem leaves in water and drink the strained liquid daily.",
+            "Drink aloe vera juice daily on an empty stomach to help regulate blood sugar levels."
+        ]
+    },
+    "Blood pressure": {
+        "remedies": [
+            "Mint leaves can be brewed into tea or added to meals to aid in lowering blood pressure.",
+            "Neem leaves may help improve blood circulation and lower blood pressure when consumed as a tea or in capsule form.",
+            "Incorporating turmeric into meals or consuming turmeric tea may help reduce inflammation and lower blood pressure.",
+            "Ginger tea or adding ginger to meals can have a mild blood pressure-lowering effect.",
+            "Consuming amla juice daily can help regulate blood pressure due to its high vitamin C content."
+        ]
+    },
+    "Cholesterol": {
+        "remedies": [
+            "Mangoes are rich in fiber and antioxidants, which can contribute to lower cholesterol levels.",
+            "Papaya contains enzymes that may aid in digestion and help lower cholesterol levels.",
+            "Mint leaves can be infused into tea or added to salads to promote healthy cholesterol levels.",
+            "Drinking lemon water or adding lemon to your meals can help lower cholesterol.",
+            "Neem leaves have medicinal properties that may help in managing cholesterol levels.",
+            "Curcumin, the active compound in turmeric, is thought to have cholesterol-lowering effects.",
+            "Guava is rich in dietary fiber and vitamin C, which can aid in lowering cholesterol."
+        ]
+    },
+    "Cough": {
+        "remedies": [
+            "Boil ginger in water, strain, and drink to soothe throat irritation.",
+            "Mix black pepper powder with honey and consume to alleviate cough.",
+            "Boil mint leaves in water, strain, and drink to reduce throat irritation.",
+            "Mix honey and lemon juice in warm water and drink to ease throat irritation.",
+            "Mix turmeric powder in warm milk and drink before bedtime for its anti-inflammatory properties.",
+            "Boil tulsi leaves in water, strain, and drink to relieve cough symptoms.",
+            "Add eucalyptus oil to hot water, cover your head with a towel, and inhale the steam to clear nasal passages.",
+            "Drink aloe vera juice to soothe the throat and boost the immune system."
+        ]
+    },
+    "Headache": {
+        "remedies": [
+            "Make a ginger tea by boiling ginger slices in water. Ginger has anti-inflammatory properties that can help alleviate headaches.",
+            "Chew a few tulasi leaves or brew tulasi tea. Tulasi has analgesic properties that may help relieve headache pain.",
+            "Inhale eucalyptus oil by adding a few drops to hot water or a diffuser. Eucalyptus oil may help alleviate sinus headaches and provide relief.",
+            "Drink a cup of coffee in moderation. Caffeine in coffee can help constrict blood vessels and relieve headaches, but excessive consumption may worsen headaches.",
+            "Mix turmeric powder with warm milk and drink it. Turmeric has anti-inflammatory and antioxidant properties that may help reduce headache intensity.",
+            "Squeeze lemon juice into a glass of water and drink it. Lemon water may help hydrate your body and alleviate headaches caused by dehydration.",
+            "Mix a pinch of pepper powder in warm water and drink it slowly. Pepper may help improve blood circulation and relieve headache symptoms."
+        ]
+    },
+    "Ear pain": {
+        "remedies": [
+            "Extract juice from Tulasi leaves and mix it with coconut oil. Warm the mixture slightly and put a few drops in the ear.",
+            "Mix eucalyptus oil with olive oil and warm it. Put a few drops of this mixture in the ear.",
+            "Crush mint leaves and extract the juice. Apply a few drops of mint juice around the ear.",
+            "Crush neem leaves and extract the juice. Warm the juice slightly and use a dropper to put a few drops in the ear.",
+            "Squeeze lemon juice and mix it with warm water. Use a dropper to put a few drops in the ear.",
+            "Mix turmeric powder with sesame oil and warm it. Use a cotton ball to apply this oil around the ear."
+        ]
+    }
+}
